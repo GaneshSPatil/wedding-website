@@ -562,6 +562,13 @@ main {
     color: var(--primary-color);
 }
 
+.section-subtitle {
+    font-size: 15px;
+    font-family: var(--primary-font);
+    text-align: center;
+    color: antiquewhite;
+}
+
 .img_bg {
 
     background-position: center center;
