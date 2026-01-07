@@ -1314,3 +1314,9 @@ main {
 
 /* Largest devices such as desktops (1280px and up) */
 @media only screen and (min-width: 1280px) {}
+
+.bidaai {
+    transform: scaleX(1.3);
+    margin-right: 5px;
+    scale: 0.9;
+}
