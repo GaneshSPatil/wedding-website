@@ -4759,3 +4759,9 @@ html :where(.is-position-sticky) {
 .scale-haldi {
     scale: 1.3;
 }
+
+.prewedding-img {
+    width: 100%;
+    object-fit: contain;
+    object-position: top;
+}
